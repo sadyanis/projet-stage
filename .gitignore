@@ -1,0 +1,7 @@
+logs/
+*.PNG
+*.pyc
+*.zip
+main.py
+main3.py
+deque.py
