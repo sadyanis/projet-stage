@@ -2,6 +2,8 @@ logs/
 *.PNG
 *.pyc
 *.zip
+*.pdf
+*.html
 main.py
 main3.py
 deque.py
